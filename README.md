@@ -1,6 +1,6 @@
 ### Who am I?
 
-Honestly I'm not sure myself ;) I've not had a job title for aout 20 years, but think a bit of Cloud Modernisation Consultant, a bit of Cloud Solution Architect, and also a highly experienced full-stack developer with a healthy dose of DevOps who can actually build it all, plus a speaker and trainer.
+Honestly I'm not sure myself ;) I've not had a job title for about 20 years, but think a bit of Cloud Modernisation Consultant, a bit of Cloud Solution Architect, and also a highly experienced full-stack developer with a healthy dose of DevOps who can actually build it all, plus a speaker and trainer.
 
 #### Some things I do (in no particular order)
 
